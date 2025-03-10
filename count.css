@@ -1,0 +1,23 @@
+.box{
+    height: 300px;
+    width: 200px;
+    border: 2px solid black;
+    padding: 10px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("/image/premium_photo-1687173116184-2277b7a516ca.jpg");
+    background-size: 500PX;
+}
+
+button{
+    
+    background-color: aqua;
+    color: black;
+}
+
